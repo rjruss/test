@@ -1,4 +1,6 @@
-test
+GeoJson World Point Map
 ====
-more typing
-test
+Created with Geoserver from Natural Earth Dataset
+
+http://www.geoserver.org
+http://www.naturalearthdata.com/
